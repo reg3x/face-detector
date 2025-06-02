@@ -1,0 +1,3 @@
+give me a code example of a minimal application built with kotlin that takes a jpeg image and detect a person face on it and crop it out and save that face as another jpeg file
+
+
